@@ -3,10 +3,10 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://elbowfarm.com.test',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'Elbow Farm',
+    'siteDescription' => 'Simply the Best Seed to Sale Application for Cannabis Producers',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
