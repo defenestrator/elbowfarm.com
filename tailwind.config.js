@@ -3,10 +3,13 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: [
-          'Nunito Sans'
+          'Fira Sans', "Myriad Pro", 'Myriad','Geneva', 'Helvetica', 'Arial', 'sans-serif'
         ],
         mono: [
-          'monospace',
+          'Fira Code', 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Monaco', 'Courier New', 'Courier', 'monospace'
+        ],
+        serif: [
+          'Spectral', 'Georgia', 'Utopia', 'Palatino', 'Palatino Linotype', 'serif'
         ],
       },
       lineHeight: {

@@ -1,17 +1,17 @@
 ---
 extends: _layouts.post
 section: content
-title: Getting Started
+title: Elbow Farm is an old idea
 date: 2018-12-25
-description: Getting started with the Jigsaw blog starter template
-cover_image: /assets/img/post-cover-image-2.png
+description: We're trying to keep it simple.
+cover_image: /assets/img/new-hero-gh.png
 featured: true
-categories: [configuration]
+categories: ['Founding Principles', 'operations','news']
 ---
 
-This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go.<!-- more -->
+Elbow Farm aims to promote heirloom quality genetics and biodiversity within Cannabis by providing artisanal products to discerning producers and consumers alike.<!-- more -->
 
-## Configuration
+## Diversification
 
 As with all Jigsaw sites, configuration settings can be found in `config.php`; you can update the variables in that file with settings specific to your site. You can also add new configuration variables there to use across your site; take a look at the [Jigsaw documentation](http://jigsaw.tighten.co/docs/site-variables/) to learn more.
 

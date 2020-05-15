@@ -3,11 +3,11 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://elbowfarm.test',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'Elbow Farm',
+    'siteDescription' => 'Simple tastes for refined palates.',
+    'siteAuthor' => 'Elbow Mike',
 
     // collections
     'collections' => [

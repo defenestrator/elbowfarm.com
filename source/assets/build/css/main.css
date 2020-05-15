@@ -523,7 +523,7 @@ ul {
  */
 
 html {
-  font-family: Nunito Sans; /* 1 */
+  font-family: Fira Sans, Myriad Pro, Myriad, Geneva, Helvetica, Arial, sans-serif; /* 1 */
   line-height: 1.5; /* 2 */
 }
 
@@ -667,7 +667,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: monospace;
+  font-family: Fira Code, Andale Mono WT, Andale Mono, Lucida Console, Monaco, Courier New, Courier, monospace;
 }
 
 /**
@@ -873,6 +873,7 @@ ul {
 }
 
 p {
+  font-family: Spectral;
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
@@ -6960,15 +6961,15 @@ pre code {
 }
 
 .font-sans{
-  font-family: Nunito Sans;
+  font-family: Fira Sans, Myriad Pro, Myriad, Geneva, Helvetica, Arial, sans-serif;
 }
 
 .font-serif{
-  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: Spectral, Georgia, Utopia, Palatino, Palatino Linotype, serif;
 }
 
 .font-mono{
-  font-family: monospace;
+  font-family: Fira Code, Andale Mono WT, Andale Mono, Lucida Console, Monaco, Courier New, Courier, monospace;
 }
 
 .font-hairline{
@@ -26408,15 +26409,15 @@ pre code {
   }
 
   .sm\:font-sans{
-    font-family: Nunito Sans;
+    font-family: Fira Sans, Myriad Pro, Myriad, Geneva, Helvetica, Arial, sans-serif;
   }
 
   .sm\:font-serif{
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: Spectral, Georgia, Utopia, Palatino, Palatino Linotype, serif;
   }
 
   .sm\:font-mono{
-    font-family: monospace;
+    font-family: Fira Code, Andale Mono WT, Andale Mono, Lucida Console, Monaco, Courier New, Courier, monospace;
   }
 
   .sm\:font-hairline{
@@ -45849,15 +45850,15 @@ pre code {
   }
 
   .md\:font-sans{
-    font-family: Nunito Sans;
+    font-family: Fira Sans, Myriad Pro, Myriad, Geneva, Helvetica, Arial, sans-serif;
   }
 
   .md\:font-serif{
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: Spectral, Georgia, Utopia, Palatino, Palatino Linotype, serif;
   }
 
   .md\:font-mono{
-    font-family: monospace;
+    font-family: Fira Code, Andale Mono WT, Andale Mono, Lucida Console, Monaco, Courier New, Courier, monospace;
   }
 
   .md\:font-hairline{
@@ -65290,15 +65291,15 @@ pre code {
   }
 
   .lg\:font-sans{
-    font-family: Nunito Sans;
+    font-family: Fira Sans, Myriad Pro, Myriad, Geneva, Helvetica, Arial, sans-serif;
   }
 
   .lg\:font-serif{
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: Spectral, Georgia, Utopia, Palatino, Palatino Linotype, serif;
   }
 
   .lg\:font-mono{
-    font-family: monospace;
+    font-family: Fira Code, Andale Mono WT, Andale Mono, Lucida Console, Monaco, Courier New, Courier, monospace;
   }
 
   .lg\:font-hairline{
@@ -84731,15 +84732,15 @@ pre code {
   }
 
   .xl\:font-sans{
-    font-family: Nunito Sans;
+    font-family: Fira Sans, Myriad Pro, Myriad, Geneva, Helvetica, Arial, sans-serif;
   }
 
   .xl\:font-serif{
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: Spectral, Georgia, Utopia, Palatino, Palatino Linotype, serif;
   }
 
   .xl\:font-mono{
-    font-family: monospace;
+    font-family: Fira Code, Andale Mono WT, Andale Mono, Lucida Console, Monaco, Courier New, Courier, monospace;
   }
 
   .xl\:font-hairline{
